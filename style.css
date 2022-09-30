@@ -21,6 +21,6 @@ h1{
 p{
 	font-family: 'Inter Tight', sans-serif;
 	text-align: center;
-	color: black
-	
+	color: black;
+	font-size: 50px;
 }
