@@ -39,6 +39,7 @@ li{
 }
 
 #temaki {
+	width: 40%;
 	display: flex;
 	margin: auto;
 	
