@@ -37,6 +37,11 @@ li{
 	margin: auto;
 	
 }
+#sashimi {
+	width: 30%;
+	display: flex;
+	margin: auto;
+}
 
 #temaki {
 	width: 40%;
