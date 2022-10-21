@@ -33,26 +33,22 @@ li{
 
 #sushi {
 	width: 30%;
-	display: flex;
 	margin: auto;
 	
 }
 #sashimi {
 	width: 50%;
-	display: flex;
 	margin: auto;
 }
 
 #temaki {
 	width: 40%;
-	display: flex;
 	margin: auto;
 	
 }
 
 #missoshiru{
 	width: 40%;
-	display: flex;
 	margin: auto;
 	
 }
