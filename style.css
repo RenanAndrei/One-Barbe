@@ -1,5 +1,8 @@
 	nav li {
 		color: aliceblue;
+		text-decoration: none;
+		display: inline;
+		text-transform: uppercase;
 	}
 
 body {
